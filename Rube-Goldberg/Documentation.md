@@ -42,9 +42,15 @@ When the button is triggered, the actor **Ball** spawns to begin the physics seq
 ### Domino
 <p><img src="Images/Domino_Actor.PNG" alt="Button Actor" width="80" height="80" align="left">BP Actor with collision, physics and sound. Each time another component with "ball" or "domino" tag ovelap its own **box collider** a sound of hit is played<br/></p>
 
+<p align="center">
+  <img width="600" height="300" src="Images/Domino_Blueprint.PNG">
+</p>
+
 ### Pool Ball
 <p><img src="Images/Ball_Actor.PNG" alt="Button Actor" width="80" height="80" align="left">BP Actor with collision, physics and sound. Each time another component with "ball" tag ovelap its own collider a sound of hit is played. When it pass through some box triggers some force is added</p>
 
 <p align="center">
   <img width="600" height="300" src="Images/Ball_Blueprint.PNG">
 </p>
+
+### Steel Ball
