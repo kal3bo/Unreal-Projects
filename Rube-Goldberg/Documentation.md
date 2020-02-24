@@ -10,6 +10,18 @@ The event begins when the guest presses a striking button in the center of the c
 
 The sequence of dominos pushes a first billiard ball that will cover half of the establishment passing on the back stage.
 
+<p align="center">
+  <img width="460" height="300" src="Images/Dominos.PNG">
+</p>
+
 At the end of the course of the first billiard balls, the last one will fall on the second pool table, on which there is a pile of different balls that will push a final sequence of dominos and will end up sinking in the corners of the table.
 
+<p align="center">
+  <img width="460" height="300" src="Images/Pool_Balls.PNG">
+</p>
+
 With the fall of the last domino, a wave of smoke will fill the main stage while a last ball of steel runs through the installations. At the end of the last ball journey, the smoke will dissipate and the club logo will appear on the stage.
+
+<p align="center">
+  <img width="460" height="300" src="Images/Ad.PNG">
+</p>
