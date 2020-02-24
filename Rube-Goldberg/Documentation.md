@@ -43,14 +43,26 @@ When the button is triggered, the actor **Ball** spawns to begin the physics seq
 <p><img src="Images/Domino_Actor.PNG" alt="Button Actor" width="80" height="80" align="left">BP Actor with collision, physics and sound. Each time another component with "ball" or "domino" tag ovelap its own **box collider** a sound of hit is played<br/></p>
 
 <p align="center">
-  <img width="600" height="300" src="Images/Domino_Blueprint.PNG">
+  <img width="800" height="300" src="Images/Domino_Blueprint.PNG">
 </p>
 
 ### Pool Ball
 <p><img src="Images/Ball_Actor.PNG" alt="Button Actor" width="80" height="80" align="left">BP Actor with collision, physics and sound. Each time another component with "ball" tag ovelap its own collider a sound of hit is played. When it pass through some box triggers some force is added</p>
 
 <p align="center">
-  <img width="600" height="300" src="Images/Ball_Blueprint.PNG">
+  <img width="700" height="300" src="Images/Ball_Blueprint.PNG">
 </p>
 
 ### Steel Ball
+<p><img src="Images/Steel_Ball.PNG" alt="Button Actor" width="80" height="80" align="left">BP Actor with collision and physics. When it pass through some box triggers some force is added. This actor triggers some smoke on the scene then it pass through its boc trigger.</p>
+
+<p align="center">
+  <img width="700" height="300" src="Images/Steel_Ball_Blueprint.PNG">
+</p>
+
+### Final Trigger
+<p><img src="Images/Finale_Trigger.PNG" alt="Button Actor" width="80" height="80" align="left">When any other actor passes through the smoke will dissapear and the brand logo will appear in stage.</p>
+
+<p align="center">
+  <img width="700" height="300" src="Images/Finale_Trigger_Blueprint.PNG">
+</p>
