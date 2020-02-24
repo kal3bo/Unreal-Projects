@@ -5,7 +5,7 @@ Sequence of emblematic events that build an entertaining parade that sponsors a 
 The event begins when the guest presses a striking button in the center of the club, which will automatically spawn a heavy ball on the first pool table, which hits a domino sequence.
 
 <p align="center">
-  <img width="300" height="250" src="Images/Button.PNG">
+  <img width="460" height="300" src="Images/Button.PNG">
 </p>
 
 The sequence of dominos pushes a first billiard ball that will cover half of the establishment passing on the back stage.
@@ -28,3 +28,15 @@ With the fall of the last domino, a wave of smoke will fill the main stage while
 
 ## Actors & Triggers
 ### Button
+
+<p align="right">
+  <img width="200" height="200" src="Images/Button_Actor.PNG">
+</p>
+The button actor has a trigger box that collides with any other actor when overlapping, as the hand of the user is the only one capable of reaching it, it doesn't have any tag constraints. 
+When the button is triggered, the actor [Ball](#Ball) spawns to begin the physics sequence.
+<p align="center">
+  <img width="460" height="300" src="Images/Button_Blueprint.PNG">
+</p>
+
+
+### Ball 
