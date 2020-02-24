@@ -8,7 +8,7 @@ The event begins when the guest presses a striking button in the center of the c
   <img width="460" height="300" src="Images/Button.PNG">
 </p>
 
-The sequence of dominos pushes a first billiard ball that will cover half of the establishment passing on the back stage.
+The sequence of dominos pushes a first billiard ball that will passes through half of the establishment above the back stage.
 
 <p align="center">
   <img width="460" height="300" src="Images/Dominos.PNG">
@@ -30,7 +30,7 @@ With the fall of the last domino, a wave of smoke will fill the main stage while
 ### Button
 
 <p><img src="Images/Button_Actor.PNG" alt="Button Actor" width="80" height="80" align="left">The button actor has a trigger box that collides with any other actor when overlapping, as the hand of the user is the only one capable of reaching it, it doesn't have any tag constraints. 
-When the button is triggered, the actor **Ball** spawns to begin the physics sequence. </p>
+When the button is triggered, the actor __Ball__ spawns to begin the physics sequence. </p>
 
 <p align="center">
   <img width="600" height="300" src="Images/Button_Blueprint.PNG">
