@@ -3,7 +3,7 @@
 Sequence of emblematic events that build an entertaining parade that sponsors a famous club in Moscow. The club has two main stages, contemporary and youth music; Pool tables, drinks, entertainment and more.
 ## Sumary of sequence
 The event begins when the guest presses a striking button in the center of the club, which will automatically spawn a heavy ball on the first pool table, which hits a domino sequence.
-![Alt text](Images/Button.PNG?raw=true "Button")
+
 <p align="center">
   <img width="460" height="300" src="Images/Button.PNG">
 </p>
