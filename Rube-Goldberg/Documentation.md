@@ -66,3 +66,6 @@ When the button is triggered, the actor __Ball__ spawns to begin the physics seq
 <p align="center">
   <img width="700" height="300" src="Images/Finale_Trigger_Blueprint.PNG">
 </p>
+
+## Assets
+We provide all the 3d assets used in this project [here](/Assets).
