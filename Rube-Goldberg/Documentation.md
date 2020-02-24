@@ -30,11 +30,14 @@ With the fall of the last domino, a wave of smoke will fill the main stage while
 ### Button
 
 <p><img src="Images/Button_Actor.PNG" alt="Button Actor" width="80" height="80" align="left">The button actor has a trigger box that collides with any other actor when overlapping, as the hand of the user is the only one capable of reaching it, it doesn't have any tag constraints. 
-When the button is triggered, the actor [Ball](#Ball) spawns to begin the physics sequence. </p>
+When the button is triggered, the actor **Ball** spawns to begin the physics sequence. </p>
 
 <p align="center">
   <img width="600" height="300" src="Images/Button_Blueprint.PNG">
 </p>
 
-
 ### Ball 
+<p><img src="Images/Main_Ball.PNG" alt="Button Actor" width="80" height="80" align="left">The Ball is a BP Pickup actor; movable, simulates physics with simple collision.</p>
+
+### Domino
+<p><img src="Images/Domino_Actor.PNG" alt="Button Actor" width="80" height="80" align="left">BP Actor with collision, physics and sound. Each time another component with "ball" or "domino" tag ovelap its own **box collider** a sound of hit is played</p>
