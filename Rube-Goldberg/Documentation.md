@@ -37,11 +37,7 @@ When the button is triggered, the actor **Ball** spawns to begin the physics seq
 </p>
 
 ### Ball 
-<p><img src="Images/Main_Ball.PNG" alt="Button Actor" width="80" height="80" align="left">The Ball is a BP Pickup actor; movable, simulates physics with simple collision. Interacts with dominos and it can be grabbed by the player.</p>
-
-
-
-
+<p><img src="Images/Main_Ball.PNG" alt="Button Actor" width="80" height="80" align="left">The Ball is a BP Pickup actor; movable, simulates physics with simple collision. Interacts with dominos and it can be grabbed by the player.<b><b></p>
 
 ### Domino
 <p><img src="Images/Domino_Actor.PNG" alt="Button Actor" width="80" height="80" align="left">BP Actor with collision, physics and sound. Each time another component with "ball" or "domino" tag ovelap its own **box collider** a sound of hit is played</p>
