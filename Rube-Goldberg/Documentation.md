@@ -30,7 +30,7 @@ With the fall of the last domino, a wave of smoke will fill the main stage while
 ### Button
 
 <p align="left">
-    <img aling="right" width="200" height="200" src="Images/Button_Actor.PNG">
+    <img aling="right" width="100" height="100" src="Images/Button_Actor.PNG">
 </p>
 The button actor has a trigger box that collides with any other actor when overlapping, as the hand of the user is the only one capable of reaching it, it doesn't have any tag constraints. 
 When the button is triggered, the actor [Ball](#Ball) spawns to begin the physics sequence.
