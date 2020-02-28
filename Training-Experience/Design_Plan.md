@@ -33,3 +33,12 @@ Repair Center is searching for more people to work with them, however, the compa
 <p align="center">
   <img width="600" height="700" src="Images/UE_Design.png">
 </p>
+
+### Joruney
+1. A client comes into the store.
+2. The client explains a situation and provides an object that he/she wants to repair.
+3. Interact with the object.
+4. Take object to workplace.
+5. Disassemble.
+6. Replace.
+7. Assemble.
