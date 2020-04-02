@@ -1,0 +1,1194 @@
+﻿Log file open, 04/02/20 09:06:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Training
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.274552
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9800X CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.02-16.06.18:777][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.02-16.06.18:777][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.02-16.06.18:778][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.02-16.06.18:778][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.02-16.06.18:778][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.02-16.06.18:778][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.02-16.06.18:778][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.02-16.06.18:778][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.02-16.06.18:778][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.02-16.06.18:778][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.02-16.06.18:778][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.02-16.06.18:778][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.02-16.06.18:778][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.02-16.06.18:778][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.02-16.06.18:778][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.02-16.06.18:781][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.02-16.06.18:781][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.02-16.06.18:782][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.02-16.06.18:782][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.02-16.06.18:782][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.02-16.06.18:790][  0]LogHAL: Display: Platform has ~ 32 GB [34043756544 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.02-16.06.18:790][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.02-16.06.18:790][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.02-16.06.18:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.02-16.06.18:791][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.02-16.06.18:794][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.02-16.06.18:794][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.02-16.06.18:794][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.02-16.06.18:794][  0]LogInit: Computer: VAR106
+[2020.04.02-16.06.18:794][  0]LogInit: User: Student
+[2020.04.02-16.06.18:794][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.04.02-16.06.18:794][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.02-16.06.18:794][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2020.04.02-16.06.18:794][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.02-16.06.18:794][  0]LogMemory: Process Physical Memory: 111.18 MB used, 111.18 MB peak
+[2020.04.02-16.06.18:794][  0]LogMemory: Process Virtual Memory: 111.55 MB used, 111.55 MB peak
+[2020.04.02-16.06.18:794][  0]LogMemory: Physical Memory: 5008.74 MB used,  27457.92 MB free, 32466.66 MB total
+[2020.04.02-16.06.18:794][  0]LogMemory: Virtual Memory: 4751.68 MB used,  134212976.00 MB free, 134217728.00 MB total
+[2020.04.02-16.06.18:805][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.02-16.06.19:065][  0]LogInit: Using OS detected language (en-US).
+[2020.04.02-16.06.19:065][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.02-16.06.19:066][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.02-16.06.19:292][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.02-16.06.19:350][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.02-16.06.19:351][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.02-16.06.20:495][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.02-16.06.20:583][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2020.04.02-16.06.20:583][  0]LogD3D11RHI:       8010/0/16233 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.02-16.06.20:587][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.02-16.06.20:587][  0]LogD3D11RHI:       0/0/16233 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.02-16.06.20:587][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.02-16.06.20:594][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.02-16.06.20:594][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.02-16.06.20:594][  0]LogWindows: EnumDisplayDevices:
+[2020.04.02-16.06.20:595][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2020.04.02-16.06.20:595][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.04.02-16.06.20:595][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.04.02-16.06.20:595][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.04.02-16.06.20:595][  0]LogWindows:    4. 'DameWare Development Mirror Driver 64-bit' (P:0 D:0)
+[2020.04.02-16.06.20:595][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.04.02-16.06.20:595][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2020.04.02-16.06.20:595][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.04.02-16.06.20:595][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.04.02-16.06.20:595][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.04.02-16.06.20:652][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.02-16.06.20:663][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.02-16.06.21:164][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.02-16.06.21:183][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.02-16.06.21:204][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.02-16.06.21:223][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.02-16.06.21:248][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.02-16.06.21:269][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.02-16.06.21:290][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.02-16.06.21:311][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.02-16.06.21:329][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.02-16.06.21:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.02-16.06.21:391][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.02-16.06.21:453][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.02-16.06.21:453][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.02-16.06.21:478][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.02-16.06.21:478][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.02-16.06.21:496][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.02-16.06.21:515][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.02-16.06.21:533][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.02-16.06.21:557][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.02-16.06.21:599][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.02-16.06.21:599][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.02-16.06.21:599][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.02-16.06.21:666][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.02-16.06.22:059][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Intermediate/Shaders/WorkingDirectory/5920/).
+[2020.04.02-16.06.22:059][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Student/AppData/Local/Temp/UnrealShaderWorkingDir/AE54D47B4B0B36253ECDA38845793206/'.
+[2020.04.02-16.06.22:062][  0]LogXGEController: Cleaning working directory: C:/Users/Student/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.02-16.06.22:062][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.02-16.06.22:062][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.02-16.06.22:062][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.02-16.06.23:648][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.02-16.06.23:751][  0]LogDerivedDataCache: Loaded boot cache 0.10s 77MB C:/Users/Student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.02-16.06.23:751][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.02-16.06.23:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.02-16.06.23:751][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.02-16.06.23:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.02-16.06.23:751][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.02-16.06.23:769][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.02-16.06.23:769][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.02-16.06.23:769][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.02-16.06.23:775][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.02-16.06.23:775][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.02-16.06.23:775][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.02-16.06.23:795][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.02-16.06.23:798][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.02-16.06.23:804][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.02-16.06.24:130][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2020.04.02-16.06.24:448][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.02-16.06.24:826][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.02-16.06.24:826][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.02-16.06.24:826][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.02-16.06.24:826][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.02-16.06.24:826][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.02-16.06.24:845][  0]LogNetVersion: Training 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1067009072)
+[2020.04.02-16.06.25:525][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.099164 seconds
+[2020.04.02-16.06.25:533][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.04.02-16.06.25:533][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.04.02-16.06.25:533][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.02-16.06.30:159][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.02-16.06.30:177][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.02-16.06.30:507][  0]SourceControl: Source control is disabled
+[2020.04.02-16.06.30:507][  0]SourceControl: Source control is disabled
+[2020.04.02-16.06.30:545][  0]SourceControl: Source control is disabled
+[2020.04.02-16.06.30:563][  0]SourceControl: Source control is disabled
+[2020.04.02-16.06.31:282][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.02-16.06.31:773][  0]LogOcInput: OculusInput pre-init called
+[2020.04.02-16.06.33:338][  0]LogEngine: Initializing Engine...
+[2020.04.02-16.06.33:339][  0]LogHMD: Oculus plugin initialized. Version: 4.23.1-9631420+++UE4+Release-4.23, OVRPlugin: 1.37.0
+[2020.04.02-16.06.33:340][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.02-16.06.33:604][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.02-16.06.33:645][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.02-16.06.33:694][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.02-16.06.34:175][  0]LogInit: FAudioDevice initialized.
+[2020.04.02-16.06.34:176][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.02-16.06.34:424][  0]LogDerivedDataCache: Saved boot cache 0.25s 77MB C:/Users/Student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.02-16.06.34:429][  0]LogInit: Texture streaming: Enabled
+[2020.04.02-16.06.34:528][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.02-16.06.34:529][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.02-16.06.34:534][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.02-16.06.34:646][  0]LogInit: Transaction tracking system initialized
+[2020.04.02-16.06.34:783][  0]BlueprintLog: New page: Editor Load
+[2020.04.02-16.06.35:200][  0]LocalizationService: Localization service is disabled
+[2020.04.02-16.06.35:881][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/' took 0.01s
+[2020.04.02-16.06.35:881][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.02-16.06.35:881][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.02-16.06.36:737][  0]SourceControl: Source control is disabled
+[2020.04.02-16.06.36:737][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.02-16.06.36:738][  0]LightingResults: New page: Lighting Build
+[2020.04.02-16.06.36:741][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-16.06.36:742][  0]MapCheck: New page: Map Check
+[2020.04.02-16.06.36:742][  0]LightingResults: New page: Lighting Build
+[2020.04.02-16.06.36:779][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.04.02-16.06.36:935][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.02-16.06.36:936][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.02-16.06.36:936][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.02-16.06.36:936][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.02-16.06.36:936][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.02-16.06.36:936][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.02-16.06.36:936][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.02-16.06.36:936][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.02-16.06.36:937][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.02-16.06.36:937][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.02-16.06.36:937][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.02-16.06.36:937][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.02-16.06.36:937][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.02-16.06.36:937][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.02-16.06.36:938][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.02-16.06.36:938][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.02-16.06.36:939][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.02-16.06.36:939][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp.SM_Ceiling_Fan_Lamp Referenced by Sm_lamp_GEN_VARIABLE
+[2020.04.02-16.06.36:939][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.02-16.06.36:939][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp.SM_Ceiling_Fan_Lamp Referenced by Sm_lamp_GEN_VARIABLE
+[2020.04.02-16.06.36:939][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.02-16.06.36:939][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan.SM_Ceiling_Fan_Fan Referenced by SM_FAN_GEN_VARIABLE
+[2020.04.02-16.06.36:939][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.02-16.06.36:939][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan.SM_Ceiling_Fan_Fan Referenced by SM_FAN_GEN_VARIABLE
+[2020.04.02-16.06.36:945][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_3.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.02-16.06.36:945][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_3.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.02-16.06.36:945][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_3.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.02-16.06.36:945][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_3.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.02-16.06.36:945][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.02-16.06.36:946][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.02-16.06.36:946][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.02-16.06.36:946][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.02-16.06.36:946][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.02-16.06.36:946][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3.Sm_Stationlamp_3 Referenced by lamp_GEN_VARIABLE
+[2020.04.02-16.06.36:947][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.02-16.06.36:947][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3.Sm_Stationlamp_3 Referenced by lamp_GEN_VARIABLE
+[2020.04.02-16.06.36:951][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_4.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.02-16.06.36:951][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_4.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.02-16.06.36:951][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_4.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.02-16.06.36:951][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_4.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.02-16.06.36:952][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.02-16.06.36:952][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.02-16.06.36:952][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.02-16.06.36:952][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.02-16.06.36:953][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.02-16.06.36:953][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp.Sm_Station_biglamp Referenced by lamp_GEN_VARIABLE
+[2020.04.02-16.06.36:953][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.02-16.06.36:953][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp.Sm_Station_biglamp Referenced by lamp_GEN_VARIABLE
+[2020.04.02-16.06.36:957][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Steel_cable_spline.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.02-16.06.36:958][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Steel_cable_spline.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.02-16.06.36:958][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Steel_cable_spline.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.02-16.06.36:958][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Steel_cable_spline.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.02-16.06.36:958][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.02-16.06.36:958][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.02-16.06.36:958][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.02-16.06.36:959][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.02-16.06.36:959][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.02-16.06.36:959][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable.SM_Steel_Cable Referenced by NODE_AddSplineMeshComponent-0
+[2020.04.02-16.06.36:959][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.02-16.06.36:959][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable.SM_Steel_Cable Referenced by NODE_AddSplineMeshComponent-0
+[2020.04.02-16.06.39:230][  0]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.02-16.06.39:409][  0]PIE: Warning: Trying to simulate physics on ''/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.BP_Pickup_Camera_14.Camera'' but it has ComplexAsSimple collision.
+[2020.04.02-16.06.39:435][  0]PIE: Warning: Trying to simulate physics on ''/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.BP_Pickup_Camera_14.Camera'' but it has ComplexAsSimple collision.
+[2020.04.02-16.06.39:438][  0]PIE: Warning: Trying to simulate physics on ''/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.BP_Pickup_Camera_14.Camera'' but it has ComplexAsSimple collision.
+[2020.04.02-16.06.39:438][  0]PIE: Warning: Trying to simulate physics on ''/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.BP_Pickup_Camera_14.Camera'' but it has ComplexAsSimple collision.
+[2020.04.02-16.06.39:443][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.02-16.06.39:495][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.04.02-16.06.39:495][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.02-16.06.39:496][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.223ms to complete.
+[2020.04.02-16.06.39:496][  0]LogFileHelpers: Loading map 'Lvl_Day_Demomap' took 2.758
+[2020.04.02-16.06.39:648][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-16.06.39:654][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-16.06.39:659][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-16.06.39:664][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-16.06.39:688][  0]LogCollectionManager: Loaded 0 collections in 0.001825 seconds
+[2020.04.02-16.06.39:697][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Collections/' took 0.00s
+[2020.04.02-16.06.39:697][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Developers/Student/Collections/' took 0.00s
+[2020.04.02-16.06.39:697][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Collections/' took 0.00s
+[2020.04.02-16.06.39:697][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.04.02-16.06.39:706][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2864 classes and 682 folders.
+[2020.04.02-16.06.39:714][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2020.04.02-16.06.40:017][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2020.04.02-16.06.40:037][  0]LogSlate: Took 0.002983 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.02-16.06.40:042][  0]LogSlate: Took 0.002659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.02-16.06.40:047][  0]LogSlate: Took 0.002818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.02-16.06.40:120][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2020.04.02-16.06.40:229][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2020.04.02-16.06.40:229][  0]LogLoad: (Engine Initialization) Total time: 25.70 seconds
+[2020.04.02-16.06.40:229][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.02-16.06.40:240][  0]LogOcInput: OculusInput is initialized
+[2020.04.02-16.06.40:287][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.02-16.06.40:290][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.02-16.06.40:335][  0]LogSlate: Took 0.003146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.02-16.06.40:351][  1]LogLinker: Warning: Failed to load '/Game/Character/Mesh/SK_Mannequin': Can't find file.
+[2020.04.02-16.06.40:351][  1]LogLinker: Warning: Failed to load '/Game/Character/Mesh/SK_Mannequin': Can't find file.
+[2020.04.02-16.06.40:351][  1]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Character/Mesh/SK_Mannequin.SK_Mannequin'
+[2020.04.02-16.06.40:582][  5]LogAssetRegistry: Asset discovery search completed in 16.4533 seconds
+[2020.04.02-16.06.40:585][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000009 seconds (found 0 objects)
+[2020.04.02-16.06.40:585][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2020.04.02-16.06.41:277][ 69]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.02-16.06.43:449][329]LogSlate: Window 'Message Log' being destroyed
+[2020.04.02-16.06.43:452][329]LogSlate: Window 'Message Log' being destroyed
+[2020.04.02-16.06.50:183][132]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-16.07.40:249][628]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={8E1DDC72-4DB6-7F12-C0DE-878FDE96B7AF}
+[2020.04.02-16.10.17:885][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-16.10.18:831][127]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.02-16.10.18:835][127]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap
+[2020.04.02-16.10.19:060][127]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2020.04.02-16.10.19:690][127]LogSlate: Took 0.003574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.02-16.10.19:836][128]LogSlate: Took 0.003215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.02-16.10.46:775][644]LogSlate: Window 'Lvl_Day_Demomap' being destroyed
+[2020.04.02-16.10.52:295][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-16.14.22:698][595]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.04.02-16.14.23:196][595]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_DemomapFDCE454C49CF2C1B3698E8927EF324EC.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap'
+[2020.04.02-16.14.23:238][595]LogFileHelpers: Saving map 'Lvl_Day_Demomap' took 0.586
+[2020.04.02-16.14.28:346][174]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-16.14.28:347][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-16.14.28:347][174]PIE: New page: SIE session: Lvl_Day_Demomap (Apr 2, 2020, 2:14:28 AM)
+[2020.04.02-16.14.28:348][174]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.02-16.14.28:349][174]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-16.14.28:454][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104236s)
+[2020.04.02-16.14.28:455][174]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.02-16.14.28:455][174]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2020.04.02-16.14.28:455][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap to /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap (0.105579s)
+[2020.04.02-16.14.28:495][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.04.02-16.14.28:522][174]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.02-16.14.28:602][174]LogInit: FAudioDevice initialized.
+[2020.04.02-16.14.28:611][174]LogLoad: Game class is 'GameModeBase'
+[2020.04.02-16.14.28:616][174]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap up for play (max tick rate 0) at 2020.04.02-09.14.28
+[2020.04.02-16.14.28:622][174]LogWorld: Bringing up level for play took: 0.010397
+[2020.04.02-16.14.28:623][174]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.04.02-16.14.28:624][174]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.02-16.14.28:635][174]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 20 classes and 0 folders.
+[2020.04.02-16.14.28:638][174]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap 0.518
+[2020.04.02-16.14.28:646][174]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-16.14.32:364][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-16.14.32:364][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-16.14.32:364][533]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-16.14.32:366][533]LogWorld: UWorld::CleanupWorld for Lvl_Day_Demomap, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-16.14.32:391][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-16.14.32:391][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-16.14.32:442][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-16.14.32:469][533]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.04.02-16.14.32:487][534]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.04.02-16.24.26:887][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.04.02-16.24.27:412][891]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_Demomap_Auto1295FCDFC46403CFA306EECBD3F2B3A03.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Autosaves/Game/Levels/Lvl_Day_Demomap_Auto1.umap'
+[2020.04.02-16.24.27:415][891]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Lvl_Day_Demomap' took 0.576
+[2020.04.02-16.24.27:416][891]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.576
+[2020.04.02-16.25.26:588][266]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.02-16.29.02:647][778]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.02-16.29.50:332][454]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.02-16.30.11:389][966]LogEditorTransaction: Undo Resize Node
+[2020.04.02-16.32.07:536][758]BlueprintLog: New page: Compile Lvl_Day_Demomap
+[2020.04.02-16.32.07:777][758]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.04.02-16.34.33:411][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.04.02-16.34.33:941][178]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_Demomap_Auto2292F9857458B6F99A2DA47B901EC08CA.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Autosaves/Game/Levels/Lvl_Day_Demomap_Auto2.umap'
+[2020.04.02-16.34.33:945][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Lvl_Day_Demomap' took 0.580
+[2020.04.02-16.34.33:945][178]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.580
+[2020.04.02-16.37.09:002][829]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-17.28.11:508][663]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.02-17.28.42:264][318]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.04.02-17.28.42:793][318]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_Demomap_Auto35904F5624B9E6AA5D231CFB4B064EB33.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Autosaves/Game/Levels/Lvl_Day_Demomap_Auto3.umap'
+[2020.04.02-17.28.42:797][318]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Lvl_Day_Demomap' took 0.579
+[2020.04.02-17.28.42:797][318]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.579
+[2020.04.02-17.29.44:587][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.04.02-17.29.45:109][478]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_Demomap8AB8D5E4457DFB2D1C48AE9B2B986EA1.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap'
+[2020.04.02-17.29.45:144][478]LogFileHelpers: Saving map 'Lvl_Day_Demomap' took 0.608
+[2020.04.02-17.29.49:437][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.29.49:437][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-17.29.49:437][939]LogHMD: Initializing OVRPlugin session
+[2020.04.02-17.29.49:574][939]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.02-17.29.49:575][939]PIE: New page: PIE session: Lvl_Day_Demomap (Apr 2, 2020, 3:29:49 AM)
+[2020.04.02-17.29.49:575][939]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.29.49:691][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115650s)
+[2020.04.02-17.29.49:692][939]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.02-17.29.49:692][939]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2020.04.02-17.29.49:692][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap to /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap (0.116808s)
+[2020.04.02-17.29.49:740][939]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.04.02-17.29.49:774][939]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-17.29.49:785][939]LogInit: FAudioDevice initialized.
+[2020.04.02-17.29.49:795][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.29.49:816][939]LogLoad: Game class is 'GameModeBase'
+[2020.04.02-17.29.49:821][939]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap up for play (max tick rate 0) at 2020.04.02-10.29.49
+[2020.04.02-17.29.49:822][939]LogWorld: Bringing up level for play took: 0.005407
+[2020.04.02-17.29.49:822][939]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.04.02-17.29.49:830][939]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap -0.292
+[2020.04.02-17.29.49:830][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.29.49:831][939]LogEngine: Changing dynamic resolution state.
+[2020.04.02-17.29.49:849][939]LogRenderer: Reallocating scene render targets to support 3296x1776 Format 26 NumSamples 1 (Frame:1).
+[2020.04.02-17.29.49:849][939]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.02-17.30.47:071][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.30.47:096][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.30.47:096][644]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.30.47:138][644]LogSlate: Window 'Training Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.02-17.30.47:141][644]LogWorld: UWorld::CleanupWorld for Lvl_Day_Demomap, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-17.30.47:168][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-17.30.47:169][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.30.47:228][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.04.02-17.30.47:255][645]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.04.02-17.30.47:256][645]LogEngine: Changing dynamic resolution state.
+[2020.04.02-17.30.51:120][106]LogEditorViewport: Clicking on Actor (LMB): Door_BP_C (Door_BP)
+[2020.04.02-17.30.56:674][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-17.31.00:338][127]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Animations/Open_Door_ANIM.Open_Door_ANIM
+[2020.04.02-17.31.10:749][286]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.04.02-17.31.13:054][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-17.31.25:763][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.31.25:763][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-17.31.25:763][ 31]PIE: New page: SIE session: Lvl_Day_Demomap (Apr 2, 2020, 3:31:25 AM)
+[2020.04.02-17.31.25:763][ 31]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.31.25:870][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106769s)
+[2020.04.02-17.31.25:870][ 31]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.02-17.31.25:871][ 31]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2020.04.02-17.31.25:871][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap to /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap (0.107826s)
+[2020.04.02-17.31.25:963][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.04.02-17.31.25:991][ 31]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-17.31.26:002][ 31]LogInit: FAudioDevice initialized.
+[2020.04.02-17.31.26:012][ 31]LogLoad: Game class is 'GameModeBase'
+[2020.04.02-17.31.26:017][ 31]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap up for play (max tick rate 0) at 2020.04.02-10.31.26
+[2020.04.02-17.31.26:018][ 31]LogWorld: Bringing up level for play took: 0.004951
+[2020.04.02-17.31.26:018][ 31]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.04.02-17.31.26:019][ 31]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.02-17.31.26:022][ 31]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap -0.099
+[2020.04.02-17.31.26:027][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.32.01:132][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.32.01:133][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.32.01:133][ 54]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.32.01:134][ 54]LogWorld: UWorld::CleanupWorld for Lvl_Day_Demomap, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-17.32.01:159][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-17.32.01:159][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.32.01:210][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.32.01:242][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.04.02-17.32.01:302][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.04.02-17.32.02:296][173]LogTemp: Repeating last play command: Simulate
+[2020.04.02-17.32.02:311][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.32.02:312][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-17.32.02:312][173]PIE: New page: SIE session: Lvl_Day_Demomap (Apr 2, 2020, 3:32:02 AM)
+[2020.04.02-17.32.02:312][173]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.32.02:415][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104468s)
+[2020.04.02-17.32.02:416][173]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.02-17.32.02:416][173]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.04.02-17.32.02:416][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap to /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap (0.105486s)
+[2020.04.02-17.32.02:458][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.04.02-17.32.02:484][173]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-17.32.02:497][173]LogInit: FAudioDevice initialized.
+[2020.04.02-17.32.02:506][173]LogLoad: Game class is 'GameModeBase'
+[2020.04.02-17.32.02:511][173]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap up for play (max tick rate 0) at 2020.04.02-10.32.02
+[2020.04.02-17.32.02:511][173]LogWorld: Bringing up level for play took: 0.005125
+[2020.04.02-17.32.02:512][173]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.04.02-17.32.02:513][173]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.02-17.32.02:516][173]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap 0.395
+[2020.04.02-17.32.02:517][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.32.04:322][387]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.32.04:323][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.32.04:323][387]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.32.04:324][387]LogWorld: UWorld::CleanupWorld for Lvl_Day_Demomap, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-17.32.04:345][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-17.32.04:345][387]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.32.04:394][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.32.04:402][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.04.02-17.32.04:460][388]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.04.02-17.33.11:382][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.04.02-17.33.11:900][180]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_Demomap8A9D1C15444801D79E0768BDD3D8530D.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap'
+[2020.04.02-17.33.11:934][180]LogFileHelpers: Saving map 'Lvl_Day_Demomap' took 0.593
+[2020.04.02-17.33.26:105][811]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.33.26:105][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-17.33.26:105][811]LogHMD: Initializing OVRPlugin session
+[2020.04.02-17.33.26:219][811]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.02-17.33.26:221][811]PIE: New page: PIE session: Lvl_Day_Demomap (Apr 2, 2020, 3:33:26 AM)
+[2020.04.02-17.33.26:221][811]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.33.26:323][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102046s)
+[2020.04.02-17.33.26:324][811]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.02-17.33.26:324][811]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2020.04.02-17.33.26:324][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap to /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap (0.103076s)
+[2020.04.02-17.33.26:369][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.04.02-17.33.26:399][811]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-17.33.26:409][811]LogInit: FAudioDevice initialized.
+[2020.04.02-17.33.26:421][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.33.26:446][811]LogLoad: Game class is 'GameModeBase'
+[2020.04.02-17.33.26:451][811]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap up for play (max tick rate 0) at 2020.04.02-10.33.26
+[2020.04.02-17.33.26:452][811]LogWorld: Bringing up level for play took: 0.005151
+[2020.04.02-17.33.26:452][811]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.04.02-17.33.26:453][811]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.02-17.33.26:460][811]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap 0.339
+[2020.04.02-17.33.26:461][811]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.33.26:462][811]LogEngine: Changing dynamic resolution state.
+[2020.04.02-17.33.26:470][811]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.02-17.34.06:684][633]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.34.06:707][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.34.06:707][633]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.34.06:744][633]LogSlate: Window 'Training Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.02-17.34.06:746][633]LogWorld: UWorld::CleanupWorld for Lvl_Day_Demomap, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-17.34.06:773][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-17.34.06:774][633]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.34.06:835][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.04.02-17.34.06:897][634]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.04.02-17.34.06:897][634]LogEngine: Changing dynamic resolution state.
+[2020.04.02-17.35.19:179][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.04.02-17.35.19:752][ 81]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_Demomap832596124ED9ECD7C157899D8FD8219D.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap'
+[2020.04.02-17.35.19:786][ 81]LogFileHelpers: Saving map 'Lvl_Day_Demomap' took 0.653
+[2020.04.02-17.35.46:526][198]LogTemp: Repeating last play command: VR Preview
+[2020.04.02-17.35.46:542][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.35.46:542][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-17.35.46:542][198]LogHMD: Initializing OVRPlugin session
+[2020.04.02-17.35.46:657][198]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.02-17.35.46:658][198]PIE: New page: PIE session: Lvl_Day_Demomap (Apr 2, 2020, 3:35:46 AM)
+[2020.04.02-17.35.46:659][198]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.35.46:763][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103968s)
+[2020.04.02-17.35.46:764][198]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.02-17.35.46:764][198]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2020.04.02-17.35.46:764][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap to /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap (0.105087s)
+[2020.04.02-17.35.46:805][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.04.02-17.35.46:833][198]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-17.35.46:845][198]LogInit: FAudioDevice initialized.
+[2020.04.02-17.35.46:855][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.35.46:871][198]LogLoad: Game class is 'GameModeBase'
+[2020.04.02-17.35.46:877][198]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap up for play (max tick rate 0) at 2020.04.02-10.35.46
+[2020.04.02-17.35.46:878][198]LogWorld: Bringing up level for play took: 0.005655
+[2020.04.02-17.35.46:878][198]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.04.02-17.35.46:880][198]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.02-17.35.46:888][198]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap 0.767
+[2020.04.02-17.35.46:889][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.35.46:889][198]LogEngine: Changing dynamic resolution state.
+[2020.04.02-17.35.46:898][198]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.02-17.36.23:187][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.36.23:211][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.36.23:211][838]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.36.23:252][838]LogSlate: Window 'Training Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.02-17.36.23:255][838]LogWorld: UWorld::CleanupWorld for Lvl_Day_Demomap, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-17.36.23:284][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-17.36.23:285][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.36.23:348][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.04.02-17.36.23:410][839]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.04.02-17.36.23:410][839]LogEngine: Changing dynamic resolution state.
+[2020.04.02-17.38.39:043][750]LogEditorTransaction: Undo Move Node
+[2020.04.02-17.38.50:219][ 68]BlueprintLog: New page: Compile Lvl_Day_Demomap
+[2020.04.02-17.38.50:454][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.04.02-17.39.10:598][434]LogTemp: Repeating last play command: VR Preview
+[2020.04.02-17.39.10:614][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.39.10:615][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-17.39.10:615][434]LogHMD: Initializing OVRPlugin session
+[2020.04.02-17.39.10:732][434]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.02-17.39.10:733][434]PIE: New page: PIE session: Lvl_Day_Demomap (Apr 2, 2020, 3:39:10 AM)
+[2020.04.02-17.39.10:733][434]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.39.10:835][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102477s)
+[2020.04.02-17.39.10:836][434]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.02-17.39.10:836][434]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2020.04.02-17.39.10:836][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap to /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap (0.103561s)
+[2020.04.02-17.39.10:879][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.04.02-17.39.10:908][434]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-17.39.10:920][434]LogInit: FAudioDevice initialized.
+[2020.04.02-17.39.10:931][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.39.10:949][434]LogLoad: Game class is 'GameModeBase'
+[2020.04.02-17.39.10:954][434]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap up for play (max tick rate 0) at 2020.04.02-10.39.10
+[2020.04.02-17.39.10:955][434]LogWorld: Bringing up level for play took: 0.005525
+[2020.04.02-17.39.10:955][434]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.04.02-17.39.10:957][434]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.02-17.39.10:965][434]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap 0.843
+[2020.04.02-17.39.10:966][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.39.10:967][434]LogEngine: Changing dynamic resolution state.
+[2020.04.02-17.39.10:975][434]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.02-17.39.57:611][538]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.39.57:634][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.39.57:634][538]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.39.57:679][538]LogSlate: Window 'Training Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.02-17.39.57:681][538]LogWorld: UWorld::CleanupWorld for Lvl_Day_Demomap, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-17.39.57:707][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-17.39.57:708][538]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.39.57:768][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.04.02-17.39.57:834][539]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.02-17.39.57:835][539]LogEngine: Changing dynamic resolution state.
+[2020.04.02-17.40.30:290][235]LogTemp: Repeating last play command: VR Preview
+[2020.04.02-17.40.30:305][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.40.30:306][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-17.40.30:306][235]LogHMD: Initializing OVRPlugin session
+[2020.04.02-17.40.30:501][235]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.02-17.40.30:503][235]PIE: New page: PIE session: Lvl_Day_Demomap (Apr 2, 2020, 3:40:30 AM)
+[2020.04.02-17.40.30:503][235]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.40.30:612][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108846s)
+[2020.04.02-17.40.30:613][235]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.02-17.40.30:613][235]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2020.04.02-17.40.30:613][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap to /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap (0.109891s)
+[2020.04.02-17.40.30:657][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.04.02-17.40.30:688][235]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-17.40.30:700][235]LogInit: FAudioDevice initialized.
+[2020.04.02-17.40.30:710][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.40.30:730][235]LogLoad: Game class is 'GameModeBase'
+[2020.04.02-17.40.30:735][235]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap up for play (max tick rate 0) at 2020.04.02-10.40.30
+[2020.04.02-17.40.30:736][235]LogWorld: Bringing up level for play took: 0.005404
+[2020.04.02-17.40.30:736][235]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.04.02-17.40.30:737][235]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.02-17.40.30:747][235]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap 0.626
+[2020.04.02-17.40.30:748][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.40.30:750][235]LogEngine: Changing dynamic resolution state.
+[2020.04.02-17.40.30:760][235]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.02-17.41.18:463][296]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.41.18:486][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.41.18:486][296]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.41.18:532][296]LogSlate: Window 'Training Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.02-17.41.18:534][296]LogWorld: UWorld::CleanupWorld for Lvl_Day_Demomap, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-17.41.18:559][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-17.41.18:560][296]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.41.18:619][296]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.04.02-17.41.18:685][297]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.02-17.41.18:686][297]LogEngine: Changing dynamic resolution state.
+[2020.04.02-17.42.51:583][ 98]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Blueprints/ActionList_Enum.ActionList_Enum
+[2020.04.02-17.43.34:605][110]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/ActionList_EnumD75B5B14427E342F91A44D824513160C.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Blueprints/ActionList_Enum.uasset'
+[2020.04.02-17.43.48:450][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.04.02-17.43.48:975][682]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_Demomap9211BA07425B2066DC9D7295A97998B8.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap'
+[2020.04.02-17.43.49:013][682]LogFileHelpers: Saving map 'Lvl_Day_Demomap' took 0.608
+[2020.04.02-17.51.04:720][168]BlueprintLog: New page: Compile Lvl_Day_Demomap
+[2020.04.02-17.51.04:954][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.04.02-17.51.05:619][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.04.02-17.51.06:145][204]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_Demomap0A4AE9164AE8A63F81D22F9682A1F512.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap'
+[2020.04.02-17.51.06:179][204]LogFileHelpers: Saving map 'Lvl_Day_Demomap' took 0.837
+[2020.04.02-17.51.06:595][245]LogTemp: Repeating last play command: VR Preview
+[2020.04.02-17.51.06:609][245]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.51.06:609][245]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.02-17.51.06:610][245]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2020.04.02-17.51.06:658][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.04.02-17.51.06:658][245]LogPlayLevel: PlayLevel: Blueprint regeneration took 48 ms (1 blueprints)
+[2020.04.02-17.51.06:658][245]LogHMD: Initializing OVRPlugin session
+[2020.04.02-17.51.06:776][245]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.02-17.51.06:777][245]PIE: New page: PIE session: Lvl_Day_Demomap (Apr 2, 2020, 3:51:06 AM)
+[2020.04.02-17.51.06:777][245]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.51.06:881][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104053s)
+[2020.04.02-17.51.06:882][245]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.02-17.51.06:882][245]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2020.04.02-17.51.06:883][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap to /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap (0.105299s)
+[2020.04.02-17.51.06:920][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.04.02-17.51.06:948][245]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-17.51.06:958][245]LogInit: FAudioDevice initialized.
+[2020.04.02-17.51.06:968][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.51.06:987][245]LogLoad: Game class is 'GameModeBase'
+[2020.04.02-17.51.06:992][245]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap up for play (max tick rate 0) at 2020.04.02-10.51.06
+[2020.04.02-17.51.06:993][245]LogWorld: Bringing up level for play took: 0.005489
+[2020.04.02-17.51.06:993][245]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.02-17.51.06:995][245]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.02-17.51.07:002][245]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap 0.881
+[2020.04.02-17.51.07:003][245]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.51.07:003][245]LogEngine: Changing dynamic resolution state.
+[2020.04.02-17.51.07:010][245]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.02-17.53.00:792][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.53.00:816][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-17.53.00:816][403]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-17.53.00:861][403]LogSlate: Window 'Training Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.02-17.53.00:864][403]LogWorld: UWorld::CleanupWorld for Lvl_Day_Demomap, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-17.53.00:889][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-17.53.00:890][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-17.53.00:948][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.04.02-17.53.01:012][404]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.02-17.53.01:012][404]LogEngine: Changing dynamic resolution state.
+[2020.04.02-17.55.55:374][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.04.02-17.55.55:888][189]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_Demomap79A59C2549340D137456A681F9A0753D.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap'
+[2020.04.02-17.55.55:922][189]LogFileHelpers: Saving map 'Lvl_Day_Demomap' took 0.593
+[2020.04.02-18.03.21:935][241]BlueprintLog: New page: Compile Lvl_Day_Demomap
+[2020.04.02-18.03.22:173][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.04.02-18.04.19:675][ 41]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/Dialogue.Dialogue
+[2020.04.02-18.05.55:738][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.04.02-18.05.56:267][690]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_Demomap_Auto414AD5E1E4CF216AF29F504A6DE5466D2.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Autosaves/Game/Levels/Lvl_Day_Demomap_Auto4.umap'
+[2020.04.02-18.05.56:271][690]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Lvl_Day_Demomap' took 0.578
+[2020.04.02-18.05.56:271][690]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.578
+[2020.04.02-18.05.56:273][690]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/Dialogue] ([1] browsable assets)...
+[2020.04.02-18.05.56:273][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/Dialogue]
+[2020.04.02-18.05.56:280][690]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Dialogue_Auto4E317E86F42BE9CD4399F1D8DE8821F81.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Autosaves/Game/Widgets/Dialogue_Auto4.uasset'
+[2020.04.02-18.05.56:281][690]LogFileHelpers: Auto-saving content packages took 0.008
+[2020.04.02-18.21.14:126][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Student/Downloads/Bubble_Dialogue.png)
+[2020.04.02-18.21.14:151][567]LogTexture: Display: Building textures: Bubble_Dialogue (BGRA8, 2018X951)
+[2020.04.02-18.21.16:859][760]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Images/Bubble_Dialogue.Bubble_Dialogue
+[2020.04.02-18.21.16:888][760]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2020.04.02-18.21.51:441][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Bubble_Dialogue" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Images/Bubble_Dialogue.uasset" SILENT=true
+[2020.04.02-18.21.51:496][816]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Bubble_Dialogue1B73CC7D4944EEF4FC9769885C6A5FF2.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Images/Bubble_Dialogue.uasset'
+[2020.04.02-18.22.07:742][416]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.02-18.22.14:576][199]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Widgets/Dialogue_BP.Dialogue_BP
+[2020.04.02-18.23.18:291][479]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.04.02-18.23.18:291][479]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Lvl_Day_Demomap' took 0.078
+[2020.04.02-18.23.18:293][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/Dialogue_BP] ([1] browsable assets)...
+[2020.04.02-18.23.18:293][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/Dialogue_BP]
+[2020.04.02-18.23.18:301][479]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Dialogue_BP_Auto547CA51414A12E5CFF43BFC9934983C41.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Autosaves/Game/Widgets/Dialogue_BP_Auto5.uasset'
+[2020.04.02-18.23.18:302][479]LogFileHelpers: Auto-saving content packages took 0.009
+[2020.04.02-18.25.47:035][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.04.02-18.25.50:901][239]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-18.25.50:923][239]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-18.25.54:503][603]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.04.02-18.25.57:124][603]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.02-18.25.57:239][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.04.02-18.26.14:978][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.04.02-18.26.15:201][675]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.04.02-18.26.15:435][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.04.02-18.26.15:439][675]LogMetaData: Removing '/Game/Widgets/Instructions_Widget.Instructions_Widget_C' ref from Metadata '/Game/Widgets/Instructions.PackageMetaData'
+[2020.04.02-18.26.15:439][675]LogMetaData: Removing '/Game/Widgets/Instructions_Widget.Instructions_Widget:Write Text.K2Node_FunctionEntry_0' ref from Metadata '/Game/Widgets/Instructions.PackageMetaData'
+[2020.04.02-18.26.15:439][675]LogMetaData: Removing '/Game/Widgets/Instructions_Widget.Instructions_Widget:GetColorAndOpacity_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Widgets/Instructions.PackageMetaData'
+[2020.04.02-18.26.15:439][675]LogMetaData: Removing '/Game/Widgets/Instructions_Widget.Instructions_Widget:GetColorAndOpacity_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Widgets/Instructions.PackageMetaData'
+[2020.04.02-18.26.15:439][675]LogMetaData: Removing '/Game/Widgets/Instructions_Widget.Instructions_Widget:For Each Loop Delayed.K2Node_Tunnel_1' ref from Metadata '/Game/Widgets/Instructions.PackageMetaData'
+[2020.04.02-18.26.15:439][675]LogMetaData: Removing '/Game/Widgets/Instructions_Widget.Instructions_Widget:For Each Loop Delayed.K2Node_Tunnel_0' ref from Metadata '/Game/Widgets/Instructions.PackageMetaData'
+[2020.04.02-18.26.15:439][675]LogMetaData: Removing '/Game/Widgets/Instructions_Widget.SKEL_Instructions_Widget_C' ref from Metadata '/Game/Widgets/Instructions.PackageMetaData'
+[2020.04.02-18.26.15:506][675]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Instructions_WidgetEE9141D546A4B39424BB3AAD777CA678.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Instructions_Widget.uasset'
+[2020.04.02-18.26.15:513][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Instructions" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Instructions.uasset" SILENT=true
+[2020.04.02-18.26.15:525][675]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Instructions69A3CA084A1A771F612BE5AF4A8313AB.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Instructions.uasset'
+[2020.04.02-18.27.06:206][713]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/Instructions_Widget.Instructions_Widget
+[2020.04.02-18.27.09:973][109]LogSlate: Took 0.008165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.02-18.27.28:394][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-18.27.28:394][978]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.02-18.27.28:396][978]LogPlayLevel: [PlayLevel] Compiling Instructions_BP before play...
+[2020.04.02-18.27.28:579][978]LogPlayLevel: [PlayLevel] Compiling Lvl_Day_Demomap before play...
+[2020.04.02-18.27.28:770][978]LogPlayLevel: [PlayLevel] Compiling Dialogue_Widget before play...
+[2020.04.02-18.27.28:829][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.04.02-18.27.28:829][978]LogPlayLevel: PlayLevel: Blueprint regeneration took 435 ms (3 blueprints)
+[2020.04.02-18.27.28:829][978]PIE: New page: SIE session: Lvl_Day_Demomap (Apr 2, 2020, 4:27:28 AM)
+[2020.04.02-18.27.28:830][978]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-18.27.28:937][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.107125s)
+[2020.04.02-18.27.28:938][978]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.02-18.27.28:938][978]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2020.04.02-18.27.28:938][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap to /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap (0.108142s)
+[2020.04.02-18.27.28:986][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.04.02-18.27.29:012][978]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-18.27.29:024][978]LogInit: FAudioDevice initialized.
+[2020.04.02-18.27.29:035][978]LogLoad: Game class is 'GameModeBase'
+[2020.04.02-18.27.29:040][978]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap up for play (max tick rate 0) at 2020.04.02-11.27.29
+[2020.04.02-18.27.29:041][978]LogWorld: Bringing up level for play took: 0.005267
+[2020.04.02-18.27.29:041][978]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.04.02-18.27.29:043][978]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.02-18.27.29:046][978]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap 0.924
+[2020.04.02-18.27.29:047][978]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-18.28.49:636][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.28.49:728][554]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-18.28.49:729][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.28.49:729][554]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-18.28.49:730][554]LogWorld: UWorld::CleanupWorld for Lvl_Day_Demomap, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-18.28.49:762][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-18.28.49:762][554]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-18.28.49:819][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-18.28.49:826][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.04.02-18.28.49:845][555]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.04.02-18.32.07:395][126]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-18.32.07:416][126]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-18.32.09:773][355]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/Dialogue_Widget.Dialogue_Widget
+[2020.04.02-18.35.10:426][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.04.02-18.35.10:489][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.04.02-18.35.11:003][803]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_DemomapAA5FD9CB4B1033B858476FA5D0CE427B.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap'
+[2020.04.02-18.35.11:039][803]LogFileHelpers: Saving map 'Lvl_Day_Demomap' took 0.598
+[2020.04.02-18.35.11:067][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Instructions_BP" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Instructions_BP.uasset" SILENT=true
+[2020.04.02-18.35.11:098][803]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Instructions_BPFD011F9047075397964E15B5FBF14353.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Instructions_BP.uasset'
+[2020.04.02-18.35.11:103][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Dialogue_Widget" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_Widget.uasset" SILENT=true
+[2020.04.02-18.35.11:128][803]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Dialogue_Widget7A5E64A44ECC91820A7AE8BA103B8A7C.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_Widget.uasset'
+[2020.04.02-18.35.11:134][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Dialogue_BP" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset" SILENT=true
+[2020.04.02-18.35.11:141][803]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Dialogue_BPCCC9234F4C36EA11B6FC1B9476E062E5.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset'
+[2020.04.02-18.36.14:532][ 46]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.02-18.36.17:107][354]LogEditorTransaction: Undo Edit Specified Color
+[2020.04.02-18.36.29:154][711]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.02-18.39.17:458][736]BlueprintLog: New page: Compile Dialogue_Widget
+[2020.04.02-18.39.17:517][736]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.04.02-18.39.34:260][702]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Widgets/Instructions_BP.Instructions_BP
+[2020.04.02-18.39.45:474][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Dialogue_Widget" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_Widget.uasset" SILENT=true
+[2020.04.02-18.39.45:504][843]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Dialogue_WidgetC3E7807B42FF6DA5E1F2D58E8D0FD34F.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_Widget.uasset'
+[2020.04.02-18.39.53:011][722]BlueprintLog: New page: Compile Dialogue_BP
+[2020.04.02-18.39.53:263][722]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.04.02-18.40.03:703][888]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.02-18.40.15:767][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.40.21:735][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.40.37:768][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.02-18.40.47:871][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.41.06:434][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.41.26:589][820]BlueprintLog: New page: Compile Dialogue_BP
+[2020.04.02-18.41.26:894][820]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.04.02-18.41.27:335][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Dialogue_BP" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset" SILENT=true
+[2020.04.02-18.41.27:350][865]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Dialogue_BPFA0DC07642D9107728709B92F7C52839.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset'
+[2020.04.02-18.41.28:133][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-18.42.28:567][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Dialogue_BP" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset" SILENT=true
+[2020.04.02-18.42.28:578][952]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Dialogue_BP8019C6084D0A050132658BBC6D2F297C.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset'
+[2020.04.02-19.12.16:363][839]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.02-19.13.05:110][362]BlueprintLog: New page: Compile Dialogue_BP
+[2020.04.02-19.13.05:346][362]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.04.02-19.13.05:603][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Dialogue_BP" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset" SILENT=true
+[2020.04.02-19.13.05:621][387]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Dialogue_BP1C1D0B074191F947F7D9F6A88FB74060.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset'
+[2020.04.02-19.13.34:652][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-19.13.48:571][573]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.04.02-19.13.48:637][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.04.02-19.13.49:168][573]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_Demomap9FAE5CCD4FE870EC5810069B3D797A79.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap'
+[2020.04.02-19.13.49:204][573]LogFileHelpers: Saving map 'Lvl_Day_Demomap' took 0.618
+[2020.04.02-19.14.27:154][753]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.04.02-19.14.27:167][753]LogBlueprint: Error: [Compiler PersistentLevel.Lvl_Day_Demomap] This blueprint (self) is not a Dialogue_Widget_C, therefore ' Target ' must have a connection.
+[2020.04.02-19.14.27:708][753]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_Demomap9838F9AF47DD3F477E066B93FFEFDFC6.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap'
+[2020.04.02-19.14.27:742][753]LogFileHelpers: Saving map 'Lvl_Day_Demomap' took 0.645
+[2020.04.02-19.14.56:658][873]BlueprintLog: New page: Compile Lvl_Day_Demomap
+[2020.04.02-19.14.56:906][873]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.04.02-19.14.57:413][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.04.02-19.14.57:939][915]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_DemomapA81C31994AEC67E876F89799B29307E8.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap'
+[2020.04.02-19.14.57:975][915]LogFileHelpers: Saving map 'Lvl_Day_Demomap' took 0.616
+[2020.04.02-19.15.00:064][ 84]LogTemp: Repeating last play command: Simulate
+[2020.04.02-19.15.00:087][ 84]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-19.15.00:087][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.02-19.15.00:087][ 84]PIE: New page: SIE session: Lvl_Day_Demomap (Apr 2, 2020, 5:15:00 AM)
+[2020.04.02-19.15.00:087][ 84]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-19.15.00:190][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103571s)
+[2020.04.02-19.15.00:191][ 84]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.02-19.15.00:191][ 84]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2020.04.02-19.15.00:191][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap to /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap (0.104723s)
+[2020.04.02-19.15.00:241][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.04.02-19.15.00:267][ 84]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.02-19.15.00:280][ 84]LogInit: FAudioDevice initialized.
+[2020.04.02-19.15.00:293][ 84]LogLoad: Game class is 'GameModeBase'
+[2020.04.02-19.15.00:299][ 84]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_Day_Demomap.Lvl_Day_Demomap up for play (max tick rate 0) at 2020.04.02-12.15.00
+[2020.04.02-19.15.00:299][ 84]LogWorld: Bringing up level for play took: 0.005430
+[2020.04.02-19.15.00:300][ 84]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.04.02-19.15.00:301][ 84]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.02-19.15.00:304][ 84]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap 0.182
+[2020.04.02-19.15.00:310][ 84]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-19.15.15:341][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-19.15.28:668][324]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-19.15.28:669][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-19.15.28:669][324]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_Day_Demomap
+[2020.04.02-19.15.28:670][324]LogWorld: UWorld::CleanupWorld for Lvl_Day_Demomap, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-19.15.28:701][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.02-19.15.28:702][324]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap' with GeneratedClass '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap_C' with ClassGeneratedBy '/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.Lvl_Day_Demomap'
+[2020.04.02-19.15.28:764][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-19.15.28:771][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.04.02-19.15.28:832][325]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.04.02-19.15.29:788][427]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-19.15.54:910][328]BlueprintLog: New page: Compile Dialogue_BP
+[2020.04.02-19.15.55:164][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.04.02-19.16.16:232][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Dialogue_BP" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset" SILENT=true
+[2020.04.02-19.16.16:249][798]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Dialogue_BP95A9043344D73F415EFF7DBE68AB1EDC.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset'
+[2020.04.02-19.18.36:729][940]BlueprintLog: New page: Compile Dialogue_BP
+[2020.04.02-19.18.36:979][940]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.04.02-19.18.38:237][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Dialogue_BP" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset" SILENT=true
+[2020.04.02-19.18.38:258][ 76]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Dialogue_BP89D2ACF44A58B6CFA01DE1B8EED921C6.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset'
+[2020.04.02-19.19.23:402][ 60]BlueprintLog: New page: Compile Dialogue_Widget
+[2020.04.02-19.19.23:877][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.04.02-19.19.24:338][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Dialogue_Widget" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_Widget.uasset" SILENT=true
+[2020.04.02-19.19.24:369][111]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Dialogue_Widget2C27E43F41B5AF4CFE52368ACD1543B2.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_Widget.uasset'
+[2020.04.02-19.19.32:249][956]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.02-19.19.37:684][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.02-19.19.47:974][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Dialogue_Widget" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_Widget.uasset" SILENT=true
+[2020.04.02-19.19.48:002][705]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Dialogue_WidgetFB24A3524EEEDED52AB512A152F81BD1.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_Widget.uasset'
+[2020.04.02-19.19.52:544][207]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.02-19.21.05:223][615]BlueprintLog: New page: Compile Dialogue_BP
+[2020.04.02-19.21.05:465][615]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.04.02-19.21.05:776][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Dialogue_BP" FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset" SILENT=true
+[2020.04.02-19.21.05:792][648]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Dialogue_BPCFC4E0C941FEBC6D21F8E8A40B7154CD.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Widgets/Dialogue_BP.uasset'
+[2020.04.02-19.21.09:198][  0]LogUObjectArray: Warning: Other object in slot
+[2020.04.02-19.21.09:199][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.02-19.21.09:714][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.515 s
+[2020.04.02-19.21.09:714][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.02-19.21.09:714][  0]LogOutputDevice: Error: 
+[2020.04.02-19.21.09:714][  0]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.04.02-19.21.09:714][  0]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.02-19.21.09:714][  0]LogOutputDevice: Error: Stack: 
+[2020.04.02-19.21.09:714][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd2b465279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-19.21.09:714][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd2ac87fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd2ac9622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd27e36c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd26de4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd26d9e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd3a15d644 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd3a34c533 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd3a1a922b UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd3a185738 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd3a179a1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd7d9a4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd7d9926df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd7d9a7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd7d98edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd92515c0d USER32.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd92515602 USER32.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd7d9a88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ff647096980 UE4Editor.exe!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6470aa91c UE4Editor.exe!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6470aa9fa UE4Editor.exe!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6470bb92c UE4Editor.exe!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6470be60e UE4Editor.exe!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd91d57bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd93a2ced1 ntdll.dll!UnknownFunction []
+[2020.04.02-19.21.09:715][  0]LogOutputDevice: Error: 
+[2020.04.02-19.21.09:720][  0]LogStats:                SubmitErrorReport -  0.000 s
