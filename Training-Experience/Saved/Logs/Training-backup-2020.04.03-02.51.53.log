@@ -1,0 +1,1314 @@
+﻿Log file open, 04/02/20 19:46:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Training
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172219
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9800X CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.03-02.46.34:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.03-02.46.34:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.03-02.46.34:635][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.03-02.46.34:637][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.03-02.46.34:637][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:638][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.03-02.46.34:638][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.03-02.46.34:638][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.03-02.46.34:638][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.03-02.46.34:645][  0]LogHAL: Display: Platform has ~ 32 GB [34043756544 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.03-02.46.34:646][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.03-02.46.34:646][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.03-02.46.34:646][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-02.46.34:646][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.03-02.46.34:647][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.03-02.46.34:647][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.03-02.46.34:649][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.03-02.46.34:649][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.03-02.46.34:649][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Config/Windows/Engine.ini]
+[2020.04.03-02.46.34:649][  0]LogInit: Computer: VAR106
+[2020.04.03-02.46.34:649][  0]LogInit: User: Student
+[2020.04.03-02.46.34:649][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.04.03-02.46.34:649][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.03-02.46.34:649][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2020.04.03-02.46.34:649][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.03-02.46.34:649][  0]LogMemory: Process Physical Memory: 112.58 MB used, 112.58 MB peak
+[2020.04.03-02.46.34:649][  0]LogMemory: Process Virtual Memory: 110.40 MB used, 110.40 MB peak
+[2020.04.03-02.46.34:649][  0]LogMemory: Physical Memory: 8369.07 MB used,  24097.59 MB free, 32466.66 MB total
+[2020.04.03-02.46.34:649][  0]LogMemory: Virtual Memory: 4750.11 MB used,  134212976.00 MB free, 134217728.00 MB total
+[2020.04.03-02.46.34:658][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.03-02.46.34:850][  0]LogInit: Using OS detected language (en-US).
+[2020.04.03-02.46.34:850][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.03-02.46.34:850][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.03-02.46.35:020][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.03-02.46.35:165][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.03-02.46.35:165][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.03-02.46.36:145][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.03-02.46.36:326][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2020.04.03-02.46.36:326][  0]LogD3D11RHI:       8010/0/16233 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.03-02.46.36:345][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.03-02.46.36:345][  0]LogD3D11RHI:       0/0/16233 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.03-02.46.36:345][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.03-02.46.36:354][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.03-02.46.36:354][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.03-02.46.36:354][  0]LogWindows: EnumDisplayDevices:
+[2020.04.03-02.46.36:354][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2020.04.03-02.46.36:355][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.04.03-02.46.36:355][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.04.03-02.46.36:355][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.04.03-02.46.36:355][  0]LogWindows:    4. 'DameWare Development Mirror Driver 64-bit' (P:0 D:0)
+[2020.04.03-02.46.36:355][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.04.03-02.46.36:355][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2020.04.03-02.46.36:355][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.04.03-02.46.36:355][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.04.03-02.46.36:355][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.04.03-02.46.36:416][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.03-02.46.36:432][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.03-02.46.37:162][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.03-02.46.37:182][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.03-02.46.37:202][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.03-02.46.37:221][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.03-02.46.37:244][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.03-02.46.37:265][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.03-02.46.37:286][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.03-02.46.37:307][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.03-02.46.37:325][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.03-02.46.37:374][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.03-02.46.37:388][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.03-02.46.37:451][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.03-02.46.37:451][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.03-02.46.37:476][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.03-02.46.37:476][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.03-02.46.37:495][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.03-02.46.37:514][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.03-02.46.37:533][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.03-02.46.37:557][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.03-02.46.37:599][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.03-02.46.37:599][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.03-02.46.37:599][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.03-02.46.37:662][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.03-02.46.38:036][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Intermediate/Shaders/WorkingDirectory/13012/).
+[2020.04.03-02.46.38:036][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Student/AppData/Local/Temp/UnrealShaderWorkingDir/A251EB874E168327F5E28C8B8D6387B0/'.
+[2020.04.03-02.46.38:039][  0]LogXGEController: Cleaning working directory: C:/Users/Student/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.03-02.46.38:040][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.03-02.46.38:040][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.03-02.46.38:040][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.03-02.46.39:528][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.03-02.46.39:575][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.03-02.46.39:575][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.03-02.46.39:575][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.03-02.46.39:575][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.03-02.46.39:575][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.03-02.46.39:575][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.03-02.46.39:586][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.03-02.46.39:586][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.03-02.46.39:586][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.03-02.46.39:592][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.03-02.46.39:592][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.03-02.46.39:592][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.03-02.46.39:611][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.03-02.46.39:613][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.03-02.46.39:618][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.03-02.46.39:872][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2020.04.03-02.46.40:160][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.03-02.46.40:480][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.03-02.46.40:480][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.03-02.46.40:480][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.03-02.46.40:480][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.03-02.46.40:480][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.03-02.46.40:495][  0]LogNetVersion: Training 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1067009072)
+[2020.04.03-02.46.41:046][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.100053 seconds
+[2020.04.03-02.46.41:053][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.04.03-02.46.41:054][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.04.03-02.46.41:054][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.03-02.46.45:025][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.03-02.46.45:046][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.03-02.46.45:358][  0]SourceControl: Source control is disabled
+[2020.04.03-02.46.45:358][  0]SourceControl: Source control is disabled
+[2020.04.03-02.46.45:385][  0]SourceControl: Source control is disabled
+[2020.04.03-02.46.45:403][  0]SourceControl: Source control is disabled
+[2020.04.03-02.46.46:089][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.03-02.46.46:609][  0]LogOcInput: OculusInput pre-init called
+[2020.04.03-02.46.48:201][  0]LogEngine: Initializing Engine...
+[2020.04.03-02.46.48:202][  0]LogHMD: Oculus plugin initialized. Version: 4.23.1-9631420+++UE4+Release-4.23, OVRPlugin: 1.37.0
+[2020.04.03-02.46.48:203][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.03-02.46.48:451][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.03-02.46.48:486][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.03-02.46.48:531][  0]LogInit: XAudio2 using 'Headphones (Oculus Virtual Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.03-02.46.48:588][  0]LogInit: FAudioDevice initialized.
+[2020.04.03-02.46.48:589][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.03-02.46.48:693][  0]LogDerivedDataCache: Saved boot cache 0.10s 77MB C:/Users/Student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.03-02.46.48:695][  0]LogInit: Texture streaming: Enabled
+[2020.04.03-02.46.48:765][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.03-02.46.48:766][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.03-02.46.48:771][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.03-02.46.48:895][  0]LogInit: Transaction tracking system initialized
+[2020.04.03-02.46.49:022][  0]BlueprintLog: New page: Editor Load
+[2020.04.03-02.46.49:385][  0]LocalizationService: Localization service is disabled
+[2020.04.03-02.46.49:950][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/' took 0.01s
+[2020.04.03-02.46.49:950][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.03-02.46.49:950][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.03-02.46.50:740][  0]SourceControl: Source control is disabled
+[2020.04.03-02.46.50:740][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.03-02.46.50:742][  0]LightingResults: New page: Lighting Build
+[2020.04.03-02.46.50:744][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.03-02.46.50:744][  0]MapCheck: New page: Map Check
+[2020.04.03-02.46.50:744][  0]LightingResults: New page: Lighting Build
+[2020.04.03-02.46.50:780][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.04.03-02.46.50:906][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.03-02.46.50:906][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.03-02.46.50:906][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.03-02.46.50:906][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.03-02.46.50:906][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.03-02.46.50:906][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.03-02.46.50:906][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.03-02.46.50:906][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.03-02.46.50:907][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.03-02.46.50:907][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.03-02.46.50:907][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.03-02.46.50:907][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.03-02.46.50:907][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.03-02.46.50:907][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.03-02.46.50:908][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.03-02.46.50:908][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.03-02.46.50:909][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.03-02.46.50:909][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp.SM_Ceiling_Fan_Lamp Referenced by Sm_lamp_GEN_VARIABLE
+[2020.04.03-02.46.50:909][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp': Can't find file.
+[2020.04.03-02.46.50:909][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp.SM_Ceiling_Fan_Lamp Referenced by Sm_lamp_GEN_VARIABLE
+[2020.04.03-02.46.50:909][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.03-02.46.50:909][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan.SM_Ceiling_Fan_Fan Referenced by SM_FAN_GEN_VARIABLE
+[2020.04.03-02.46.50:909][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan': Can't find file.
+[2020.04.03-02.46.50:909][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan.SM_Ceiling_Fan_Fan Referenced by SM_FAN_GEN_VARIABLE
+[2020.04.03-02.46.50:914][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_3.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.03-02.46.50:914][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_3.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.03-02.46.50:914][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_3.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.03-02.46.50:914][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_3.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.03-02.46.50:914][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.03-02.46.50:915][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.03-02.46.50:915][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.03-02.46.50:915][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.03-02.46.50:915][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.03-02.46.50:915][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3.Sm_Stationlamp_3 Referenced by lamp_GEN_VARIABLE
+[2020.04.03-02.46.50:916][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3': Can't find file.
+[2020.04.03-02.46.50:916][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3.Sm_Stationlamp_3 Referenced by lamp_GEN_VARIABLE
+[2020.04.03-02.46.50:920][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_4.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.03-02.46.50:920][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_4.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.03-02.46.50:920][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_4.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.03-02.46.50:920][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Stationlamp_4.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.03-02.46.50:920][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.03-02.46.50:920][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.03-02.46.50:921][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.03-02.46.50:921][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.03-02.46.50:921][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.03-02.46.50:921][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp.Sm_Station_biglamp Referenced by lamp_GEN_VARIABLE
+[2020.04.03-02.46.50:921][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp': Can't find file.
+[2020.04.03-02.46.50:921][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp.Sm_Station_biglamp Referenced by lamp_GEN_VARIABLE
+[2020.04.03-02.46.50:926][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Steel_cable_spline.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.03-02.46.50:926][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Steel_cable_spline.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.03-02.46.50:926][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Steel_cable_spline.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.03-02.46.50:926][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/3DModels/Blueprints/Bp_Steel_cable_spline.uasset' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.03-02.46.50:927][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.03-02.46.50:928][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.03-02.46.50:928][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.03-02.46.50:928][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.03-02.46.50:928][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.03-02.46.50:928][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable.SM_Steel_Cable Referenced by NODE_AddSplineMeshComponent-0
+[2020.04.03-02.46.50:928][  0]LogLinker: Warning: While loading '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap' failed to load '/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable': Can't find file.
+[2020.04.03-02.46.50:928][  0]LoadErrors: Failed to load /Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable.SM_Steel_Cable Referenced by NODE_AddSplineMeshComponent-0
+[2020.04.03-02.46.52:608][  0]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.03-02.46.52:758][  0]PIE: Warning: Trying to simulate physics on ''/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.BP_Pickup_Camera_14.Camera'' but it has ComplexAsSimple collision.
+[2020.04.03-02.46.52:786][  0]PIE: Warning: Trying to simulate physics on ''/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.BP_Pickup_Camera_14.Camera'' but it has ComplexAsSimple collision.
+[2020.04.03-02.46.52:789][  0]PIE: Warning: Trying to simulate physics on ''/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.BP_Pickup_Camera_14.Camera'' but it has ComplexAsSimple collision.
+[2020.04.03-02.46.52:789][  0]PIE: Warning: Trying to simulate physics on ''/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.BP_Pickup_Camera_14.Camera'' but it has ComplexAsSimple collision.
+[2020.04.03-02.46.52:794][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.03-02.46.52:846][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.04.03-02.46.52:846][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.03-02.46.52:846][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.213ms to complete.
+[2020.04.03-02.46.52:846][  0]LogFileHelpers: Loading map 'Lvl_Day_Demomap' took 2.106
+[2020.04.03-02.46.53:022][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-02.46.53:028][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-02.46.53:034][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-02.46.53:039][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-02.46.53:064][  0]LogCollectionManager: Loaded 0 collections in 0.001760 seconds
+[2020.04.03-02.46.53:071][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Collections/' took 0.00s
+[2020.04.03-02.46.53:071][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Developers/Student/Collections/' took 0.00s
+[2020.04.03-02.46.53:071][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Collections/' took 0.00s
+[2020.04.03-02.46.53:071][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.04.03-02.46.53:080][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2864 classes and 682 folders.
+[2020.04.03-02.46.53:088][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2020.04.03-02.46.53:262][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2020.04.03-02.46.53:278][  0]LogSlate: Took 0.002094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.03-02.46.53:281][  0]LogSlate: Took 0.001949 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.03-02.46.53:308][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2020.04.03-02.46.53:308][  0]LogLoad: (Engine Initialization) Total time: 21.58 seconds
+[2020.04.03-02.46.53:309][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.03-02.46.53:320][  0]LogOcInput: OculusInput is initialized
+[2020.04.03-02.46.53:366][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.03-02.46.53:369][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.03-02.46.53:441][  0]LogSlate: Took 0.002286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.03-02.46.53:509][  0]LogSlate: Took 0.002162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.03-02.46.53:525][  1]LogRenderer: Reallocating scene render targets to support 804x360 Format 26 NumSamples 1 (Frame:1).
+[2020.04.03-02.46.53:834][  4]LogAssetRegistry: Asset discovery search completed in 13.9637 seconds
+[2020.04.03-02.46.53:838][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.04.03-02.46.53:838][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2020.04.03-02.46.54:353][ 50]LogSlate: Took 0.000757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.03-02.47.53:313][124]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={972815EE-4A5F-E4B5-228F-53A596C0F1E2}
+[2020.04.03-02.48.37:085][376]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-02.48.37:089][376]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-02.48.39:995][660]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:12658).
+[2020.04.03-02.48.41:125][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-02.48.45:607][295]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap
+[2020.04.03-02.48.45:641][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.04.03-02.48.45:642][295]Cmd: MAP LOAD FILE="../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.03-02.48.45:642][295]LightingResults: New page: Lighting Build
+[2020.04.03-02.48.45:642][295]LoadErrors: New page: Loading map: Lvl_Day_Demomap.umap
+[2020.04.03-02.48.45:645][295]LogWorld: UWorld::CleanupWorld for Lvl_Day_Demomap, bSessionEnded=true, bCleanupResources=true
+[2020.04.03-02.48.45:646][295]MapCheck: New page: Map Check
+[2020.04.03-02.48.45:646][295]LightingResults: New page: Lighting Build
+[2020.04.03-02.48.45:688][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.04.03-02.48.45:823][295]LogAIModule: Creating AISystem for world Lvl_Day_Demomap
+[2020.04.03-02.48.45:871][295]PIE: Warning: Trying to simulate physics on ''/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.BP_Pickup_Camera_14.Camera'' but it has ComplexAsSimple collision.
+[2020.04.03-02.48.45:892][295]PIE: Warning: Trying to simulate physics on ''/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.BP_Pickup_Camera_14.Camera'' but it has ComplexAsSimple collision.
+[2020.04.03-02.48.45:894][295]PIE: Warning: Trying to simulate physics on ''/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.BP_Pickup_Camera_14.Camera'' but it has ComplexAsSimple collision.
+[2020.04.03-02.48.45:894][295]PIE: Warning: Trying to simulate physics on ''/Game/Levels/Lvl_Day_Demomap.Lvl_Day_Demomap:PersistentLevel.BP_Pickup_Camera_14.Camera'' but it has ComplexAsSimple collision.
+[2020.04.03-02.48.45:901][295]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.03-02.48.45:949][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.04.03-02.48.45:986][295]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.03-02.48.45:986][295]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2020.04.03-02.48.45:988][295]LogFileHelpers: Loading map 'Lvl_Day_Demomap' took 0.346
+[2020.04.03-02.48.48:828][608]LogEditorViewport: Clicking on Actor (LMB): Door_BP_C (Door_BP)
+[2020.04.03-02.49.02:406][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.03-02.49.02:453][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.04.03-02.49.02:942][ 54]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_DemomapEB2E0BB4450723316E111BA039DA7E15.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap.umap'
+[2020.04.03-02.49.04:061][ 54]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Saved/Lvl_Day_Demomap_BuiltDataBD9D5DD34E03B35FFB4EE6B373EEA0B5.tmp' to '../../../../../../Users/Student/Documents/GitHub/Unreal-Projects/Training-Experience/Content/Levels/Lvl_Day_Demomap_BuiltData.uasset'
+[2020.04.03-02.49.09:002][536]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Animations/Open_Door_ANIM.Open_Door_ANIM
+[2020.04.03-02.49.21:796][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.04.03-02.49.23:833][166]LogSlate: Window 'Asset Report' being destroyed
+[2020.04.03-02.49.35:348][166]LogAssetTools: Warning: /Game/Character/Mesh/SK_Mannequin does not exist on disk.
+[2020.04.03-02.49.35:431][166]LogAssetTools: Warning: /Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan does not exist on disk.
+[2020.04.03-02.49.35:431][166]LogAssetTools: Warning: /Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp does not exist on disk.
+[2020.04.03-02.49.35:435][166]LogAssetTools: Warning: /Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3 does not exist on disk.
+[2020.04.03-02.49.35:439][166]LogAssetTools: Warning: /Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp does not exist on disk.
+[2020.04.03-02.49.35:442][166]LogAssetTools: Warning: /Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable does not exist on disk.
+[2020.04.03-02.49.38:928][166]AssetTools: New page: Copy Errors
+[2020.04.03-02.49.38:928][166]AssetTools: Error: /Game/Character/Mesh/SK_Mannequin does not exist on disk.
+/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Fan does not exist on disk.
+/Game/Retro_Gas_Station/Gas_Station/Models/SM_Ceiling_Fan_Lamp does not exist on disk.
+/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Stationlamp_3 does not exist on disk.
+/Game/Retro_Gas_Station/Gas_Station/Models/Sm_Station_biglamp does not exist on disk.
+/Game/Retro_Gas_Station/Gas_Station/Models/SM_Steel_Cable does not exist on disk.
+
+[2020.04.03-02.49.38:928][166]AssetTools: New page: Copied Successfully
+[2020.04.03-02.49.38:928][166]AssetTools: 
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/Levels/Lvl_Day_Demomap
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Animation/Conversations/Root_Motion/Convo_01_Low_Key_Loop
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Walk_F_IPC
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/Blueprints/Character_BP
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Stand_Relaxed_Fgt_v1_IPC
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Mesh/SK_Mannequin
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Materials/M_UE4Man_Body
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Textures/UE4_LOGO_CARD
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Materials/MaterialLayers/T_ML_Aluminum01
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Materials/MaterialLayers/T_ML_Aluminum01_N
+[2020.04.03-02.49.38:928][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Textures/UE4_Mannequin__normals
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Textures/UE4_Mannequin_MAT_MASKA
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Textures/UE4_Mannequin_occlusion
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Materials/M_UE4Man_ChestLogo
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Textures/UE4Man_Logo_N
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/MCO_Mocap_Basics/Character/Mesh/SK_Mannequin_PhysicsAsset
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Blueprints/Bp_Ceiling_Fan_Lamp
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Blueprints/Bp_Stationlamp_3
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Blueprints/Bp_Stationlamp_4
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Blueprints/Bp_Steel_cable_spline
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Blueprints/BP_Pickup_Battery
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualRealityBP/Blueprints/BP_PickupCube
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualRealityBP/Blueprints/PickupActorInterface
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/Geometry/Meshes/1M_Cube
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/Geometry/Meshes/CubeMaterial
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/textures/MAT_Battery
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Materials/M_Metal_Brushed_Nickel
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Textures/T_MacroVariation
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Materials/M_Metal_Chrome
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Batterie_2
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Batterie_Ext_Silver_1
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Batterie_Ext_Tip_1
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Blueprints/BP_Pickup_Camera
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Blueprints/BP_Pickup_Lid
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Blueprints/BP_Pickup_Screw
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Materials/M_Metal_Burnished_Steel
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Textures/T_Metal_Aluminum_D
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Textures/T_Metal_Gold_N
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Screw_1
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Materials/M_Wood_Walnut
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Textures/T_Wood_Walnut_D
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Textures/T_Wood_Walnut_N
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Lid
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/textures/MAT_Camera
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/textures/Leica_M2_Leica_BaseColor
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/textures/Leica_M2_Leica_Normal
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/textures/Leica_M2_Leica_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Materials/M_Metal_Gold
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Textures/T_Metal_Gold_D
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Materials/M_Metal_Rust
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Textures/T_Metal_Rust_D
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Textures/T_Metal_Rust_N
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Materials/M_Metal_Steel
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Textures/T_Metal_Steel_D
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/StarterContent/Textures/T_Metal_Steel_N
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Camera
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Chip
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Inside_Bottom
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Inside_Lenses
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Inside_Walls
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Screw_1_1
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Screw_2_1
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Screw_3_1
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Camera/Model/Camera_Cool_Screw_4_1
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/Blueprints/Door_BP
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Models/SM_Stationdoor_1
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Materials/M_Stationdoor_1_clean
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Materials/Textures/T_Stationdoor_1_clean_BaseColor
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Materials/Textures/T_Stationdoor_1_clean_Normal
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Materials/Textures/T_Stationdoor_1_clean_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/3DModels/Materials/Textures/T_Stationdoor_1_clean_Opacity
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualRealityBP/Blueprints/MotionControllerPawn
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualRealityBP/Blueprints/BP_MotionController
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Mannequin/Animations/RightGrip_BS
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Mannequin/Character/Materials/M_HandMat
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualRealityBP/Blueprints/GripEnum
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualRealityBP/Blueprints/MotionControllerHaptics
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Materials/M_ArcEndpoint
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Materials/MF_OccludedPixels
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Materials/TeleportMCP
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Materials/M_SplineArcMat
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Materials/MI_ChaperoneOutline
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Materials/M_TeleportPreviews
+[2020.04.03-02.49.38:929][166]AssetTools: /Game/VirtualReality/Materials/MI_TeleportCylinderPreview
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/VirtualReality/Meshes/1x1_cube
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/VirtualReality/Meshes/BeaconDirection
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/VirtualReality/Meshes/BeamMesh
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/VirtualReality/Meshes/SM_FatCylinder
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/Widgets/Dialogue_BP
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/Widgets/Dialogue_Widget
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/Images/Bubble_Dialogue
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/Widgets/Instructions_BP
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/StarterContent/Materials/M_Glass_Blue
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/Widgets/Instructions_Widget
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/Levels/Lvl_Day_Demomap_BuiltData
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Cashier_desk
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cashier_desk_BaseColor
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cashier_desk_Normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cashier_desk_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Concrete_2
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Concrete_2_baseColor
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Concrete_2_metallic
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Concrete_2_normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Concrete_2_roughness
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Ground_Landscape_2
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Ground_2_ambientOcclusion
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Ground_2_baseColor
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Ground_2_metallic
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Ground_2_normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Ground_2_roughness
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Ground_Landscape_specularLevel
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Wooden_Pole
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Wooden_Pole_BaseColor
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Wooden_Pole_Normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Wooden_Pole_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/Materials/Tiles_Floor/MAT_Tiles
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/Materials/Tiles_Floor/tjqledaew_2K_Albedo
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/Materials/Tiles_Floor/tjqledaew_2K_AO
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/Materials/Tiles_Floor/tjqledaew_2K_Normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/Materials/Tiles_Floor/tjqledaew_2K_Roughness
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/Materials/Tiles_Floor/tjqledaew_2K_Specular
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Models/Sm_Asphalt_Road
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Asphalt_Road
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_asphalt_COLOR
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_asphalt_NRM
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_asphalt_OCC
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_asphalt_SPEC
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Models/SM_Battery
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Battery
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Battery_BaseColor
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Battery_Normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Battery_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Models/SM_Bench
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Bench
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Bench_BaseColor
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Bench_Normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Bench_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Models/SM_Billboard_6
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Billboard_6body1_clean
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Billboard_6body1_clean_BaseColor
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Billboard_6body1_clean_Normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Billboard_6body1_clean_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Billboard_6body2_clean
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Billboard_6body2_clean_BaseColor
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Billboard_6body2_clean_Normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Billboard_6body2_clean_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Metal_Painted_Gray
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Metal_Painted_Gray_ambientOcclusion
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Metal_Painted_Gray_baseColor
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Metal_Painted_Gray_metallic
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Metal_Painted_Gray_normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Metal_Painted_Gray_roughness
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Models/SM_Cash_Register
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Cash_Register_Part1
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cash_Register_Part1_BaseColor
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cash_Register_Part1_Normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cash_Register_Part1_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Cash_Register_Part2
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cash_Register_Part2_BaseColor
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cash_Register_Part2_Normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cash_Register_Part2_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Cash_Register_Part3
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cash_Register_Part3_BaseColor
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cash_Register_Part3_Normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cash_Register_Part3_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/M_Cash_Register_Part4
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cash_Register_Part4_BaseColor
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cash_Register_Part4_Normal
+[2020.04.03-02.49.38:930][166]AssetTools: /Game/3DModels/Materials/Textures/T_Cash_Register_Part4_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_Cashier_desk
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_Chair
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Chair
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Chair_BaseColor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Chair_Normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Chair_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_Desert_Plant_1
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Desert_Plant_1
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_DesertPlant_1_Alpha
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_DesertPlant_1_Color
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_Desert_Plant_2
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Desert_Plant_2
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Desertplant_2_Alpha
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Desertplant_2_Color
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_Pedestal_4
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Pedestal_4
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Pedestal_4_BaseColor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Pedestal_4_Normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Pedestal_4_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_picture_frame
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Picture_frame_frame
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_picture_frame_frame_BaseColor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_picture_frame_frame_Normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_picture_frame_frame_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Picture_frame_picture
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Picture_Picture
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_Shelf_1
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Shelf1
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_shelf_1_BaseColor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_shelf_1_Normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_shelf_1_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_Shelf_2
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Shelf2
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_shelf_2_BaseColor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_shelf_2_Normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_shelf_2_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/Sm_station_columns_3
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Station_Columns_3-4_clean
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Station_columns_3-4_clean_BaseColor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Station_columns_3-4_clean_Normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Station_columns_3-4_clean_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_Station_Floor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Station_Floor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Station_Floor_baseColor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Station_Floor_metallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Station_Floor_normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Station_Floor_roughness
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_Station_Pedestal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Station_Pedestal_clean
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Station_Pedestal_clean_basecolor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Station_Pedestal_clean_Normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Station_Pedestal_clean_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/Sm_station_roof9
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Station_roofs_9-10_clean
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Station_roofs_9-10_clean_BaseColor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Station_roofs_9-10_clean_Normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Station_roofs_9-10_clean_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_StationBuilding_floorbig
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Floor_1_Clean
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Floor_1_Clean_baseColor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Floor_1_Clean_metallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Floor_1_Clean_normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Floor_1_Clean_roughness
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_StationBuilding_part1
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Concrete_3
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Concrete_3_baseColor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Concrete_3_metallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Concrete_3_normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Concrete_3_roughness
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Rocksurface_1
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Rocktexture_1_baseColor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Rocktexture_1_normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Rocktexture_1_roughness
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_StationBuilding_part2
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_Stationdoor_frame
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Stationdoor_frame_clean
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Stationdoor_frame_clean_basecolor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Stationdoor_frame_clean_Normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_Stationdoor_frame_clean_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/Sm_Stationlamp_3
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_stationlamp3
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_stationlamp_3_clean_BaseColor
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_stationlamp_3_clean_Emissive
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_stationlamp_3_clean_Normal
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/Textures/T_stationlamp_3_clean_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Models/SM_Stationwindow_1
+[2020.04.03-02.49.38:931][166]AssetTools: /Game/3DModels/Materials/M_Stationwindow_1_clean
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/Textures/T_Stationwindow_1_clean_BaseColor
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/Textures/T_Stationwindow_1_clean_Normal
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/Textures/T_Stationwindow_1_clean_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/Textures/T_Stationwindow_1_clean_opacity
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Models/SM_Table
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/M_Table
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/Textures/T_Table_BaseColor
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/Textures/T_Table_Normal
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/Textures/T_Table_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Models/SM_Wooden_Fence
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/M_Wooden_Fence
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/Textures/T_WoodenFence_Basecolor
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/Textures/T_WoodenFence_Normal
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/Textures/T_WoodenFence_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Models/SM_Wooden_Fence_Part2
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/M_Wooden_Fence_Part2
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/Textures/T_WoodenFence_Part2_Basecolor
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/Textures/T_WoodenFence_Part2_Normal
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Materials/Textures/T_WoodenFence_Part2_OcclusionRoughnessMetallic
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Models/SM_Wooden_Pole
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/3DModels/Wood-Desk-Table/source/desk_1
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/Blueprints/ActionList_Enum
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/Blueprints/Dialogue_State_Enum
+[2020.04.03-02.49.38:932][166]AssetTools: /Game/Animations/Open_Door_ANIM
+[2020.04.03-02.51.50:281][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.03-02.51.50:396][811]LogSlate: Window 'Training - Unreal Editor' being destroyed
+[2020.04.03-02.51.50:397][811]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.03-02.51.50:504][812]Cmd: QUIT_EDITOR
+[2020.04.03-02.51.51:719][812]LogExit: Preparing to exit.
+[2020.04.03-02.51.52:215][812]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.03-02.51.52:215][812]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.03-02.51.52:237][812]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.03-02.51.52:237][812]LogExit: Editor shut down
+[2020.04.03-02.51.52:237][812]LogExit: Transaction tracking system shut down
+[2020.04.03-02.51.52:243][812]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.03-02.51.52:524][812]LogExit: Object subsystem successfully closed.
+[2020.04.03-02.51.52:565][812]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.03-02.51.52:600][812]LogModuleManager: Shutting down and abandoning module SequencerWidgets (670)
+[2020.04.03-02.51.52:600][812]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2020.04.03-02.51.52:600][812]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2020.04.03-02.51.52:600][812]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2020.04.03-02.51.52:600][812]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2020.04.03-02.51.52:600][812]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2020.04.03-02.51.52:600][812]LogModuleManager: Shutting down and abandoning module SceneOutliner (658)
+[2020.04.03-02.51.52:600][812]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.04.03-02.51.52:601][812]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.04.03-02.51.52:602][812]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.04.03-02.51.52:602][812]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.04.03-02.51.52:602][812]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.04.03-02.51.52:602][812]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.04.03-02.51.52:602][812]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.04.03-02.51.52:602][812]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.04.03-02.51.52:602][812]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.04.03-02.51.52:765][812]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.04.03-02.51.52:765][812]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.04.03-02.51.52:766][812]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.04.03-02.51.52:821][812]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.04.03-02.51.52:821][812]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.04.03-02.51.52:821][812]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.04.03-02.51.52:821][812]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.04.03-02.51.52:821][812]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.04.03-02.51.52:821][812]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.04.03-02.51.52:821][812]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.04.03-02.51.52:821][812]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.04.03-02.51.52:821][812]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.04.03-02.51.52:821][812]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.04.03-02.51.52:821][812]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.04.03-02.51.52:822][812]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.04.03-02.51.52:822][812]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.04.03-02.51.52:822][812]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.04.03-02.51.52:822][812]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.04.03-02.51.52:822][812]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.04.03-02.51.52:822][812]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.04.03-02.51.52:822][812]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.04.03-02.51.52:823][812]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.04.03-02.51.52:827][812]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.04.03-02.51.52:991][812]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.04.03-02.51.52:992][812]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.04.03-02.51.53:094][812]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.04.03-02.51.53:195][812]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.04.03-02.51.53:195][812]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.04.03-02.51.53:195][812]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.04.03-02.51.53:195][812]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.04.03-02.51.53:195][812]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.04.03-02.51.53:195][812]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.03-02.51.53:195][812]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.04.03-02.51.53:195][812]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.04.03-02.51.53:195][812]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.04.03-02.51.53:195][812]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.04.03-02.51.53:195][812]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.04.03-02.51.53:195][812]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.04.03-02.51.53:195][812]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.04.03-02.51.53:195][812]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.04.03-02.51.53:196][812]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.04.03-02.51.53:196][812]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.04.03-02.51.53:196][812]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.04.03-02.51.53:197][812]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.04.03-02.51.53:199][812]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.04.03-02.51.53:200][812]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.04.03-02.51.53:200][812]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.04.03-02.51.53:200][812]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.04.03-02.51.53:200][812]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.04.03-02.51.53:200][812]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.04.03-02.51.53:201][812]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.04.03-02.51.53:201][812]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.04.03-02.51.53:201][812]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.04.03-02.51.53:201][812]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.04.03-02.51.53:201][812]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.04.03-02.51.53:201][812]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.04.03-02.51.53:201][812]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.04.03-02.51.53:201][812]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.04.03-02.51.53:201][812]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.04.03-02.51.53:201][812]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.04.03-02.51.53:201][812]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.04.03-02.51.53:202][812]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.04.03-02.51.53:202][812]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.04.03-02.51.53:202][812]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.04.03-02.51.53:202][812]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.04.03-02.51.53:202][812]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.04.03-02.51.53:202][812]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.04.03-02.51.53:202][812]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.04.03-02.51.53:202][812]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.04.03-02.51.53:202][812]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.04.03-02.51.53:202][812]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.04.03-02.51.53:202][812]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.04.03-02.51.53:202][812]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.04.03-02.51.53:203][812]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.04.03-02.51.53:298][812]LogDerivedDataCache: Shutdown
+[2020.04.03-02.51.53:298][812]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.04.03-02.51.53:298][812]LogXGEController: Cleaning working directory: C:/Users/Student/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.04.03-02.51.53:299][812]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.04.03-02.51.53:300][812]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.04.03-02.51.53:300][812]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.04.03-02.51.53:300][812]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.04.03-02.51.53:300][812]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.04.03-02.51.53:300][812]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.04.03-02.51.53:301][812]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.04.03-02.51.53:301][812]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.04.03-02.51.53:301][812]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.04.03-02.51.53:301][812]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.04.03-02.51.53:307][812]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.04.03-02.51.53:307][812]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.04.03-02.51.53:308][812]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.04.03-02.51.53:308][812]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.04.03-02.51.53:338][812]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.04.03-02.51.53:338][812]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.03-02.51.53:338][812]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF87BC092-4D18-1AB0-271E-E587CA00D36B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=cfccbd444969a521177f7faeeaf3a4ff%7Cc2bba84c8f2b4ade82ee46119300fe51%7Cd61fef3a-8e42-45d8-be1b-793220c9a37b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.03-02.51.53:340][812]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.04.03-02.51.53:341][812]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.04.03-02.51.53:343][812]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.04.03-02.51.53:344][812]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.04.03-02.51.53:344][812]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.04.03-02.51.53:346][812]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.04.03-02.51.53:346][812]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.04.03-02.51.53:346][812]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.04.03-02.51.53:346][812]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.03-02.51.53:346][812]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.03-02.51.53:346][812]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.03-02.51.53:347][812]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.03-02.51.53:347][812]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.03-02.51.53:347][812]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.03-02.51.53:347][812]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.03-02.51.53:347][812]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.03-02.51.53:347][812]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.03-02.51.53:347][812]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.03-02.51.53:347][812]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.03-02.51.53:347][812]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.03-02.51.53:347][812]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.03-02.51.53:348][812]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.03-02.51.53:348][812]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.03-02.51.53:348][812]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.03-02.51.53:348][812]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.03-02.51.53:348][812]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.03-02.51.53:348][812]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.03-02.51.53:348][812]LogD3D11RHI: Shutdown
+[2020.04.03-02.51.53:348][812]LogD3D11RHI: CleanupD3DDevice
+[2020.04.03-02.51.53:349][812]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.03-02.51.53:349][812]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.03-02.51.53:349][812]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.03-02.51.53:571][812]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.03-02.51.53:588][812]LogExit: Exiting.
+[2020.04.03-02.51.53:613][812]Log file closed, 04/02/20 19:51:53
